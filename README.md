@@ -1,2 +1,3 @@
-# todoist_fullstack
-A fullstack webapp , todoist testing my skills. 
+# Todoist FullStack 
+
+This a fullstack webapp , using react , express and mongo DB. 
